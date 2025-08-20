@@ -1,5 +1,5 @@
-## Projetos-EBAC
-Projetos de ciência de dados - EBAC
+## Repositório Dos Projetos-EBAC
+Ciência de Dados
 
 ## Dash Board Vendas de Games
 
