@@ -67,6 +67,7 @@ Lucas Gabriel Ferreira Gomes
 📚 Estudante e entusiasta de programação e ciência de dados
 
 Dica: Para me conhecer melhor me siga no linkedin: 
+
 <a href="https://www.linkedin.com/in/lucas-gabriel-dados" target="_blank">
   <img src="https://img.shields.io/badge/🔗%20LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
