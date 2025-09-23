@@ -79,3 +79,7 @@ Dica: Para me conhecer melhor me siga no linkedin:
 ## 🎮Dash Board Vendas de Games
 
 [![Abrir Dashboard](https://img.shields.io/badge/Abrir%20Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/cd58dae8-06b5-4a8b-8400-5ae9118a100a)
+
+## 🛒 Dash_Ecommerce
+
+[![Abrir Dashboard](https://img.shields.io/badge/Abrir%20Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/adbd5c18-9f23-471a-95d1-7a49a1cfbb2e)
